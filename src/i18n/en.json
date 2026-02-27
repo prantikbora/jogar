@@ -1,0 +1,20 @@
+{
+  "common": {
+    "appName": "Jogar",
+    "save": "Save",
+    "cancel": "Cancel",
+    "next": "Next"
+  },
+  "onboarding": {
+    "selectLanguage": "Select your language",
+    "enterName": "What is your name?",
+    "setConsumption": "Set Daily Consumption"
+  },
+  "inventory": {
+    "currentStock": "Current Stock",
+    "rice": "Rice",
+    "unitTema": "Narikol Tema",
+    "dailyUsage": "Daily Usage",
+    "addStock": "Add Stock"
+  }
+}

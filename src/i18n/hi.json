@@ -1,0 +1,20 @@
+{
+  "common": {
+    "appName": "जोगार",
+    "save": "सेव करें",
+    "cancel": "रद्द करें",
+    "next": "अगला"
+  },
+  "onboarding": {
+    "selectLanguage": "अपनी भाषा चुनें",
+    "enterName": "आपका नाम क्या है?",
+    "setConsumption": "दैनिक खपत सेट करें"
+  },
+  "inventory": {
+    "currentStock": "वर्तमान स्टॉक",
+    "rice": "चावल",
+    "unitTema": "नारियल डिब्बा",
+    "dailyUsage": "दैनिक उपयोग",
+    "addStock": "स्टॉक जोड़ें"
+  }
+}

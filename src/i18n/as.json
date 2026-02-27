@@ -1,0 +1,20 @@
+{
+  "common": {
+    "appName": "জোগাৰ",
+    "save": "ছেভ কৰক",
+    "cancel": "বাতিল কৰক",
+    "next": "পৰৱৰ্তী"
+  },
+  "onboarding": {
+    "selectLanguage": "আপোনাৰ ভাষা বাছনি কৰক",
+    "enterName": "আপোনাৰ নাম কি?",
+    "setConsumption": "দৈনিক খৰচ নিৰ্ধাৰণ কৰক"
+  },
+  "inventory": {
+    "currentStock": "বৰ্তমানৰ জমা",
+    "rice": "চাউল",
+    "unitTema": "নাৰিকলৰ টেমা",
+    "dailyUsage": "দৈনিক ব্যৱহাৰ",
+    "addStock": "জমা যোগ কৰক"
+  }
+}
